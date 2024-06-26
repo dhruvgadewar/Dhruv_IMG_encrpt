@@ -27,9 +27,7 @@
 
 <h2 style="color: #008CBA;">Demo 🎥</h2>
 
-<div style="text-align: center;">
-  <img src="demo.gif" alt="Demo GIF" width="500" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
-</div>
+https://github.com/dhruvgadewar/Dhruv_IMG_encrpt/assets/163728245/00aa8d70-5203-4e08-94c7-4cb7deb86a29
 
 <h2 style="color: #008CBA;">Requirements 📋</h2>
 
