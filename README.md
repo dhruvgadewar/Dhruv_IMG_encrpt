@@ -29,14 +29,21 @@
 
 https://github.com/dhruvgadewar/Dhruv_IMG_encrpt/assets/163728245/00aa8d70-5203-4e08-94c7-4cb7deb86a29
 
+<p><B>NOTE:- The file used in this Demo video is executable file made from these python code. you can directly run the python code on the editor.
+          If you want to make the executable file of the code follow the following steps:<br></B>
+          step1: visit to the directory of your code.<br>
+          step2: open command prompt.<br>
+          step3: install pyinstaller using command : pip install pyinstaller<br>
+          step4: enter command : pyinstaller filename.py --onefile --noconsole <br>
+          step5: check whether the executable file is created or not.</p>
+
+
 <h2 style="color: #008CBA;">Requirements 📋</h2>
 
 <ul style="font-size: 16px;">
   <li>Python 3 🐍</li>
   <li>Tkinter 🎨</li>
-  <li>OpenCV 🖼️</li>
-  <li>Pillow 🖌️</li>
-  <li>NumPy 🔢</li>
+ 
 </ul>
 
 <h2 style="color: #008CBA;">Acknowledgements 🙏</h2>
